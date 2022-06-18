@@ -1,4 +1,4 @@
-# Motor Vehicle Collisions NYC
+# Motor Vehicle Collisions in NYC
 
 ![map](https://user-images.githubusercontent.com/86574646/174452297-6f5f79b3-2915-413c-8c5b-bb7e36a0021f.jpg)
 
