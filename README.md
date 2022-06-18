@@ -1,14 +1,23 @@
 # Streamlit
-# Vehicle-Collision-NYCity-Project
 ## This project uses streamlit library in python to built an interactive Webapp.
 
 ![](3Dmap.JPG)
 
-In the above code I have loaded, explored, visualized and interact with data, and generated dashboards in less than 100 lines of Python code! 
-
 Link for dataset: https://data.cityofnewyork.us/Public-Safety/Motor-Vehicle-Collisions-Crashes/h9gi-nx95
 
-Things covered in this project are
+### Prerequisites
+Install python and python packages:
+* python packages
+* pip install streamlit
+* pip install pandas
+* pip install numpy
+* pip install pydeck
+* pip install plotly.express
+
+To run app:
+  *streamlit run streanlit_app.py
+
+### Things covered in this project are
 
 1: Turn Simple Python Scripts into Web Apps
 
