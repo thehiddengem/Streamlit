@@ -24,5 +24,3 @@ Things covered in this project are
 7: Charts and Histograms
 
 ![3Dmap](https://user-images.githubusercontent.com/86574646/174452292-86ac02b9-1c92-4360-8830-4ad29fdf4f8c.jpg)
-
-8: Select Data Using Dropdowns
